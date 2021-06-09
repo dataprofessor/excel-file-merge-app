@@ -1,4 +1,4 @@
-# stock-app
+# excel-file-merge-app
 
 # Watch the tutorial video
 
