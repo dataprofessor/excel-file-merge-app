@@ -18,7 +18,7 @@ To recreate this web app on your own computer, do the following.
 ### Create conda environment
 Firstly, we will create a conda environment called *excel*
 ```
-conda create -n stock python=3.7.9
+conda create -n excel python=3.7.9
 ```
 Secondly, we will login to the *excel* environement
 ```
